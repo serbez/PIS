@@ -35,4 +35,5 @@ Use cases:
 
 Сотрудник МВД России -> Выдает результат государственной дактилоскопической регистрации, фотографирования.
 
-![UseCase](https://github.com/user-attachments/assets/dcb73ca6-f38c-4a06-9527-0af3522a5c2f)
+
+![UseCase](https://github.com/user-attachments/assets/460d6c5e-f6b1-4994-b2fb-b525bf543bc8)
