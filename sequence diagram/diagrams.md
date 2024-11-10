@@ -8,7 +8,8 @@
 
 Диаграмма авторизации
 -
-![Диаграмма авторизации](https://github.com/user-attachments/assets/84ca75ee-ca4f-43b4-a2ce-8b996471a1ec)
+![Диаграмма авторизации](https://github.com/user-attachments/assets/4e88aa7d-de9b-4483-86a8-0c3517ca301d)
+
 
 
 
