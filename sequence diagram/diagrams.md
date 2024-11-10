@@ -8,7 +8,8 @@
 
 Диаграмма авторизации
 -
-![Диаграмма авторизации](https://github.com/user-attachments/assets/4e88aa7d-de9b-4483-86a8-0c3517ca301d)
+![Диаграмма авторизации](https://github.com/user-attachments/assets/1ecf1455-7e82-41d9-87e7-8b23c8ee751c)
+
 
 
 
@@ -18,7 +19,8 @@
 
 Диаграмма подачи заявки
 -
-![Диаграмма подачи заявки](https://github.com/user-attachments/assets/4c4854a8-eb81-4032-a3c9-9b15ac3acbee)
+![Диаграмма подачи заявки](https://github.com/user-attachments/assets/7d403f5f-d874-459b-9965-0ec873a09902)
+
 
 
 
@@ -27,7 +29,8 @@
 
 Диаграмма обработки
 -
-![Диаграмма обработки](https://github.com/user-attachments/assets/3768d482-0907-4bae-b27d-aca8787f44e1)
+![Диаграмма обработки](https://github.com/user-attachments/assets/bd5447fc-762a-4323-a30c-51c6a5b237e3)
+
 
 
 
@@ -39,7 +42,8 @@
 
 Диаграмма получения результатов
 -
-![Диаграмма получения результатов](https://github.com/user-attachments/assets/b7055fb2-db30-410b-9501-c6d21209486d)
+![Диаграмма получения результатов](https://github.com/user-attachments/assets/ca9325e0-79ac-46c3-8255-47dd909aca9b)
+
 
 
 
@@ -51,7 +55,8 @@
 
 Диаграмма изменения условий
 -
-![Диаграмма изменения условий](https://github.com/user-attachments/assets/7153fcb4-bab1-4673-b523-f52d0ccdb72f)
+![Диаграмма изменения условий](https://github.com/user-attachments/assets/9e9d7609-7172-4c5d-bbaa-0ddd2384a456)
+
 
 
 
@@ -61,7 +66,8 @@
 
 Диаграмма отмены заявки
 -
-![Диаграмма отмены заявки](https://github.com/user-attachments/assets/43f6daa5-e575-419e-a74d-b0942a4c8e95)
+![Диаграмма отмены заявки](https://github.com/user-attachments/assets/6bf76932-de88-434e-9c51-9d667f792e0f)
+
 
 
 
