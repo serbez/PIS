@@ -38,7 +38,8 @@
 
 Диаграмма получения результатов
 -
-![Диаграмма получения результатов](https://github.com/user-attachments/assets/286930c5-1b84-406d-b6b8-374f00d6b720)
+![Диаграмма получения результатов](https://github.com/user-attachments/assets/b7055fb2-db30-410b-9501-c6d21209486d)
+
 
 
 
@@ -49,7 +50,8 @@
 
 Диаграмма изменения условий
 -
-![Диаграмма изменения условий](https://github.com/user-attachments/assets/ec8f014c-e99c-4963-90fe-d557937f3c8f)
+![Диаграмма изменения условий](https://github.com/user-attachments/assets/7153fcb4-bab1-4673-b523-f52d0ccdb72f)
+
 
 
 
