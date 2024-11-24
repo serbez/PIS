@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/0668494e-1e63-47c6-ae99-0e2d2b92e0e3)
-Сущности:
+Сущности:щзх
 
 1.	Иностранный гражданин:
 
