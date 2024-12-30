@@ -1,0 +1,69 @@
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.UserRoleForm.resources
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AdminForm.resources
+C:\Users\Dwalin\OneDrive\Рабочий стол\ПИС\пробы\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.NewConditionForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AdminForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.UserRoleForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AddConditionForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.IDCardForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.UserForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CreateBidForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.PoliceForm.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.PoliceEdit.resources
+D:\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ECard.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.AddConditionForm.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.AdminForm.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.CreateBidForm.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.ECard.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.IDCardForm.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.PoliceEdit.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.PoliceForm.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.UserForm.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.UserRoleForm.resources
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\PIS\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\PIS\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\PIS\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\PIS\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\PIS\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\PIS\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\PIS\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\PIS\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

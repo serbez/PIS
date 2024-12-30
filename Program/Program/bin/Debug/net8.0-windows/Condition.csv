@@ -1,0 +1,6 @@
+ID,Reason,AllowedTime,Date,Status
+1,Work,120,2020-10-01,n
+2,Study,60,2020-10-05,n
+3,Work,60,2023-09-10,n
+4,Work,90,2023-11-15,y
+5,Study,30,2023-11-15,y

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddConditionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateBidForm .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ECard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IDCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PoliceEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PoliceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserRoleForm .cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
